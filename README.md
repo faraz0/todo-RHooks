@@ -1,2 +1,2 @@
 # todo-RHooks
-ToDo App using React hooks and function programming
+ToDo App using React hooks and functional programming
